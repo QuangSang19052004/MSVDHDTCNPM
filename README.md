@@ -12,3 +12,10 @@ public class HelloWorld
     }
 }
 
+public class QuangSang
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine ("Git Pro");
+    }
+}
